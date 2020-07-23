@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[ ]:
 
 
 n=int(input())
@@ -29,13 +26,10 @@ for i in f:
         print(0, end = '')
 
 
-# In[ ]:
 
 
 
 
-
-# In[ ]:
 
 
 
